@@ -1,0 +1,20 @@
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer-content p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.icon-links {
+  margin-top: 10px;
+}
+
+.icon-links span {
+  font-size: 14px;
+  margin-right: 5px;
+}
